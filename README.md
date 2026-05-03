@@ -1,7 +1,8 @@
 # gitshubham-demo
+
 This is my first git 
 <h1>
-  <br> NAME:- Shubham singh </br>
+  <br> NAME:- Shubham singh (shivam)
 </h1>
 
 
